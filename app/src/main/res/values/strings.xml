@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_new">New Catagory</string>
+
+    <!-- title of add catagory dialog -->
+    <string name="title">Add New Catagory</string>
+    <string name="disagree">Cancle</string>
+    <string name="input_hint">Lectures</string>
+    <string name="input_pre_fill" />
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity -->
+    <string name="titleTask">Add new Task</string>
+    <string name="repeatedCatagory">Repeat Catagory</string>
+    <string name="dataNotAvailable">Data Not Found</string>
+    <!--detail Activity -->
+    <string name="newTask">New</string>
+    <string name="deleteTask">Delete</string>
+    <string name="repeatedTask">Repeat Task</string>
+
+
+
+</resources>
